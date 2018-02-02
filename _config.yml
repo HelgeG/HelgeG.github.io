@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Helge Gudmundsen"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/helgeg\">@helgeg on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/helgeg\">@helgeg on Micro.blog</a>."
+baseurl: ""
+url: "https://helgeg.micro.blog"
+markdown: "kramdown"
+username: "helgeg"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Helge Gudmundsen"
+name: "Helge Gudmundsen"
+gravatar_hash: "e74a20bb1502e262f6ac53ea91dfd2ff"
+avatar: "https://micro.blog/helgeg/avatar.jpg"
+full_name: "Helge Gudmundsen"
+bio: ""
+twitter_username: ""
+github_username: "HelgeG"
+instagram_username: "grumpylemming"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Zulu"
+site_id: "600"
