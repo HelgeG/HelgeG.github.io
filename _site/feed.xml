@@ -4,8 +4,17 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.helgegudmundsen.com/</link>
-    <pubDate>Fri, 02 Feb 2018 09:42:27 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Feb 2018 09:42:27 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Feb 2018 10:11:10 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Feb 2018 10:11:10 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve been using XMonad as a window manager for a few months now. It has gone from being a novelty to an integral part of my setup. Keybindings have become muscle memory, and dynamic workspace definitions keep my frequently used applications in the spaces I expect them. Love it!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Feb 2018 10:11:00 -0000</pubDate>
+        <link>http://microblog.helgegudmundsen.com/2018/02/02/ive-been-using.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/02/ive-been-using.html</guid>
+      </item>
     
       <item>
       	
@@ -506,15 +515,6 @@
         <pubDate>Tue, 28 Nov 2017 21:14:00 -0000</pubDate>
         <link>http://microblog.helgegudmundsen.com/2017/11/28/tracks-in-the.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2017/11/28/tracks-in-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;On my laptop computer I have opted for a lean Arch Linux install with Xmonad as a Window Manager. Arch is not a distribution for the terminal-phobic, but the documentation is fantastic and setting it up is giving me a much more thorough understanding of my system. &lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Nov 2017 19:11:00 -0000</pubDate>
-        <link>http://microblog.helgegudmundsen.com/2017/11/28/on-my-laptop.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2017/11/28/on-my-laptop.html</guid>
       </item>
     
   </channel>
