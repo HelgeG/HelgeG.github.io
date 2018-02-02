@@ -1,0 +1,9 @@
+---
+layout: post
+microblog: true
+date: 2017-12-28 16:49 -0000
+guid: http://helgeg.micro.blog/2017/12/28/water-in-various.html
+---
+Water in various forms
+
+<img src="http://helgeg.micro.blog/uploads/2018/14a5b17090.jpg" width="600" height="600" />
