@@ -1,0 +1,91 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Helge Gudmundsen",
+	"home_page_url": "https://helgeg.micro.blog/",
+	"feed_url": "https://helgeg.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/02/02/after-years-of.html",
+	      	
+			"content_html": "<p>After years of a mostly sedentary life I have recently taken up organized exercise three times a week. Already feeling an impact in terms of better mood, increased flexibility and peace of mind. It is good to get out of the chair!</p>\n",
+			"date_published": "2018-02-02T09:09:00Z",
+			"url": "https://helgeg.micro.blog/2018/02/02/after-years-of.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/02/02/i-missed-blade.html",
+	      	
+			"content_html": "<p>I missed Blade Runner 2049 when it was at the cinemas, but today it was released in my local iTunes store. I foresee a long night in front of the television. </p>\n",
+			"date_published": "2018-02-02T08:32:00Z",
+			"url": "https://helgeg.micro.blog/2018/02/02/i-missed-blade.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/30/handwritten-notes-on.html",
+	      	
+			"title": "Handwritten notes on the iPad",
+			
+			"content_html": "<p>I am getting more and more into handwritten notes on the iPad using GoodNotes. Usually I tend to write on whatever piece of paper is around, and notes frequently get lost. On the tablet I can find my notes, and even search them, as GoodNotes has OCR support and interprets what I write.</p>\n",
+			"date_published": "2018-01-30T10:27:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/30/handwritten-notes-on.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/29/the-flower-and.html",
+	      	
+			"content_html": "<p>The Flower and the Bee</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/476f46caa9.jpg\" width=\"502\" height=\"502\" /></p>\n",
+			"date_published": "2018-01-29T11:23:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/29/the-flower-and.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/29/brownie-adogslife.html",
+	      	
+			"content_html": "<p>Brownie #adogslife</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/35f9529181.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-29T11:21:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/29/brownie-adogslife.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/28/flowers-and-bee.html",
+	      	
+			"content_html": "<p>Flowers and bee!</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/1b5a6fa9ff.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-28T21:44:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/28/flowers-and-bee.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/28/brownie.html",
+	      	
+			"content_html": "<p>Brownie!</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/a975cdfeb5.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-01-28T21:04:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/28/brownie.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/26/got-my-radiotopia.html",
+	      	
+			"content_html": "<p>Got my RadioTopia stickers today. I love most of their podcasts. Among my favorites are Ear Hustle, 99% Invisible, The Allusionist and Song Exploder.</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/bf6a0be61c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-26T10:27:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/26/got-my-radiotopia.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/24/fog-on-the.html",
+	      	
+			"content_html": "<p>Fog on the bridge</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/9df18c0bd9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-24T14:13:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/24/fog-on-the.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/01/24/i-just-moved.html",
+	      	
+			"content_html": "<p>I just moved my personal server from Linode to <a href=\"https://www.hetzner.com/cloud\">Hetzner Cloud</a>. I’ve been very happy with Linode, but Hetzner offers more RAM (2 GB vs 1GB), higher transfer cap (20 TB vs 1TB), and almost half the price. Their low-end server starts at €2.49/month.</p>\n",
+			"date_published": "2018-01-24T12:48:00Z",
+			"url": "https://helgeg.micro.blog/2018/01/24/i-just-moved.html"
+		}
+		
+	]
+}
