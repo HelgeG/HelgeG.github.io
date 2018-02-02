@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/02/ive-been-using.html",
+	      	
+			"content_html": "<p>I’ve been using XMonad as a window manager for a few months now. It has gone from being a novelty to an integral part of my setup. Keybindings have become muscle memory, and dynamic workspace definitions keep my frequently used applications in the spaces I expect them. Love it!</p>\n",
+			"date_published": "2018-02-02T10:11:00Z",
+			"url": "http://microblog.helgegudmundsen.com/2018/02/02/ive-been-using.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/02/after-years-of.html",
 	      	
 			"content_html": "<p>After years of a mostly sedentary life I have recently taken up organized exercise three times a week. Already feeling an impact in terms of better mood, increased flexibility and peace of mind. It is good to get out of the chair!</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Fog on the bridge</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/9df18c0bd9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-24T14:13:00Z",
 			"url": "http://microblog.helgegudmundsen.com/2018/01/24/fog-on-the.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/24/i-just-moved.html",
-	      	
-			"content_html": "<p>I just moved my personal server from Linode to <a href=\"https://www.hetzner.com/cloud\">Hetzner Cloud</a>. I’ve been very happy with Linode, but Hetzner offers more RAM (2 GB vs 1GB), higher transfer cap (20 TB vs 1TB), and almost half the price. Their low-end server starts at €2.49/month.</p>\n",
-			"date_published": "2018-01-24T12:48:00Z",
-			"url": "http://microblog.helgegudmundsen.com/2018/01/24/i-just-moved.html"
 		}
 		
 	]
