@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/03/brownie-adogslife-dog.html",
+	      	
+			"content_html": "<p>Brownie #adogslife #dog #bestfriend</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/d54fe1d855.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-03T15:03:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/03/brownie-adogslife-dog.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/02/ive-been-using.html",
 	      	
 			"content_html": "<p>I’ve been using XMonad as a window manager for a few months now. It has gone from being a novelty to an integral part of my setup. Keybindings have become muscle memory, and dynamic workspace definitions keep my frequently used applications in the spaces I expect them. Love it!</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Got my RadioTopia stickers today. I love most of their podcasts. Among my favorites are Ear Hustle, 99% Invisible, The Allusionist and Song Exploder.</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/bf6a0be61c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-26T10:27:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/01/26/got-my-radiotopia.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/24/fog-on-the.html",
-	      	
-			"content_html": "<p>Fog on the bridge</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/9df18c0bd9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-24T14:13:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/24/fog-on-the.html"
 		}
 		
 	]
