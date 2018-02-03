@@ -4,8 +4,19 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Sat, 03 Feb 2018 15:05:09 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2018 15:05:09 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Feb 2018 18:05:09 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2018 18:05:09 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Stairwell&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://microblog.helgegudmundsen.com/uploads/2018/02fb5c1d11.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Feb 2018 17:07:00 -0000</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/02/03/stairwell.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/03/stairwell.html</guid>
+      </item>
     
       <item>
       	
@@ -506,15 +517,6 @@
         <pubDate>Wed, 29 Nov 2017 08:34:00 -0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2017/11/29/some-time-ago.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2017/11/29/some-time-ago.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Emacs and Xmonad are both part of a tinkerer’s dream playground. I get to program my work environment!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Nov 2017 23:19:00 -0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2017/11/28/emacs-and-xmonad.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2017/11/28/emacs-and-xmonad.html</guid>
       </item>
     
   </channel>
