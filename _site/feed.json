@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/04/my-current-keyboard.html",
+	      	
+			"content_html": "<p>My current keyboard at work (CODE VP3 with SA Industrial keycaps). </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f9f76ec381.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-04T12:05:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-current-keyboard.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/02/04/my-hot-beverage.html",
+	      	
+			"content_html": "<p>My hot beverage of choice</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/de24edb820.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-04T11:45:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-hot-beverage.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/03/stairwell.html",
 	      	
 			"content_html": "<p>Stairwell</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/02fb5c1d11.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -69,22 +85,6 @@
 			"content_html": "<p>Brownie #adogslife</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/35f9529181.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-29T11:21:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/01/29/brownie-adogslife.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/28/flowers-and-bee.html",
-	      	
-			"content_html": "<p>Flowers and bee!</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/1b5a6fa9ff.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-28T21:44:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/28/flowers-and-bee.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/28/brownie.html",
-	      	
-			"content_html": "<p>Brownie!</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/a975cdfeb5.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-01-28T21:04:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/28/brownie.html"
 		}
 		
 	]
