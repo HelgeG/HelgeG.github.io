@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/05/am-i-officially.html",
+	      	
+			"content_html": "<p>Am I officially old? I got my first pair of glasses with progressive lenses today. Now I can see where I walk, and als glance at my phone without bumping up the font size to ridiculous levels. Nice to see again, but feeling ever so slightly seasick after the first hour with them. </p>\n",
+			"date_published": "2018-02-05T18:17:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/05/am-i-officially.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/05/talk-talk-were.html",
 	      	
 			"content_html": "<p>Talk Talk were (and are) one of my favorite bands. Especially their late albums (and Mark Hollis’ eponymous solo album) are timeless pieces of brilliance.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>After years of a mostly sedentary life I have recently taken up organized exercise three times a week. Already feeling an impact in terms of better mood, increased flexibility and peace of mind. It is good to get out of the chair!</p>\n",
 			"date_published": "2018-02-02T09:09:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/02/after-years-of.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/02/i-missed-blade.html",
-	      	
-			"content_html": "<p>I missed Blade Runner 2049 when it was at the cinemas, but today it was released in my local iTunes store. I foresee a long night in front of the television. </p>\n",
-			"date_published": "2018-02-02T08:32:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/02/i-missed-blade.html"
 		}
 		
 	]
