@@ -4,8 +4,17 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Sun, 04 Feb 2018 12:08:03 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2018 12:08:03 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2018 13:23:48 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2018 13:23:48 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;For collaborative work I use git for source control, but for my own pet projects I am still partial to &lt;a href=&quot;http://www.fossil-scm.org&quot;&gt;fossil&lt;/a&gt;. I like the fact that it is lightweight and has a built-in wiki and issue tracker.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Feb 2018 13:23:00 -0000</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/02/05/for-collaborative-work.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/for-collaborative-work.html</guid>
+      </item>
     
       <item>
       	
@@ -510,15 +519,6 @@
         <pubDate>Mon, 04 Dec 2017 22:03:00 -0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2017/12/04/i-am-thinking.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2017/12/04/i-am-thinking.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Ramping up for the new year, and have started filling in information in my agendas. I keep one for work and one for personal stuff as I like to keep things separate. &lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Dec 2017 16:52:00 -0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2017/12/04/ramping-up-for.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2017/12/04/ramping-up-for.html</guid>
       </item>
     
   </channel>
