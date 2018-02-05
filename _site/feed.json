@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/05/my-micro-monday.html",
+	      	
+			"content_html": "<p>My Micro Monday recommendation is for <a href=\"https://micro.blog/bsag\">@bsag</a>. She is a biologist with a tendency toward nerddom, and a great writer. <a href=\"https://www.rousette.org.uk/\">Her blog</a> is full of really interesting pieces, and she writes with contagious enthusiasm.</p>\n",
+			"date_published": "2018-02-05T13:46:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/05/my-micro-monday.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/05/for-collaborative-work.html",
 	      	
 			"content_html": "<p>For collaborative work I use git for source control, but for my own pet projects I am still partial to <a href=\"http://www.fossil-scm.org\">fossil</a>. I like the fact that it is lightweight and has a built-in wiki and issue tracker.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I am getting more and more into handwritten notes on the iPad using GoodNotes. Usually I tend to write on whatever piece of paper is around, and notes frequently get lost. On the tablet I can find my notes, and even search them, as GoodNotes has OCR support and interprets what I write.</p>\n",
 			"date_published": "2018-01-30T10:27:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/01/30/handwritten-notes-on.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/29/the-flower-and.html",
-	      	
-			"content_html": "<p>The Flower and the Bee</p>\n\n<p><img src=\"http://helgeg.micro.blog/uploads/2018/476f46caa9.jpg\" width=\"502\" height=\"502\" /></p>\n",
-			"date_published": "2018-01-29T11:23:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/29/the-flower-and.html"
 		}
 		
 	]
