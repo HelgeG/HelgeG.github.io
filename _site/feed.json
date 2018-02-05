@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/05/talk-talk-were.html",
+	      	
+			"content_html": "<p>Talk Talk were (and are) one of my favorite bands. Especially their late albums (and Mark Hollis’ eponymous solo album) are timeless pieces of brilliance.</p>\n",
+			"date_published": "2018-02-05T13:52:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/05/talk-talk-were.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/05/my-micro-monday.html",
 	      	
 			"content_html": "<p>My Micro Monday recommendation is for <a href=\"https://micro.blog/bsag\">@bsag</a>. She is a biologist with a tendency toward nerddom, and a great writer. <a href=\"https://www.rousette.org.uk/\">Her blog</a> is full of really interesting pieces, and she writes with contagious enthusiasm.</p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>I missed Blade Runner 2049 when it was at the cinemas, but today it was released in my local iTunes store. I foresee a long night in front of the television. </p>\n",
 			"date_published": "2018-02-02T08:32:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/02/i-missed-blade.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/30/handwritten-notes-on.html",
-	      	
-			"title": "Handwritten notes on the iPad",
-			
-			"content_html": "<p>I am getting more and more into handwritten notes on the iPad using GoodNotes. Usually I tend to write on whatever piece of paper is around, and notes frequently get lost. On the tablet I can find my notes, and even search them, as GoodNotes has OCR support and interprets what I write.</p>\n",
-			"date_published": "2018-01-30T10:27:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/30/handwritten-notes-on.html"
 		}
 		
 	]
