@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/08/i-am-trying.html",
+	      	
+			"content_html": "<p>I am trying to learn chess properly. I still am really bad at it, but I am having a lot of fun. My train commute is now “The Daily Defeat” as I have yet to beat my phone :-)</p>\n",
+			"date_published": "2018-02-08T05:54:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/08/i-am-trying.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/06/configured-for-sleep.html",
 	      	
 			"content_html": "<p>Configured for sleep</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/30f588382a.jpg\" width=\"476\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Brownie #adogslife #dog #bestfriend</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/d54fe1d855.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-03T15:03:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/03/brownie-adogslife-dog.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/02/ive-been-using.html",
-	      	
-			"content_html": "<p>I’ve been using XMonad as a window manager for a few months now. It has gone from being a novelty to an integral part of my setup. Keybindings have become muscle memory, and dynamic workspace definitions keep my frequently used applications in the spaces I expect them. Love it!</p>\n",
-			"date_published": "2018-02-02T10:11:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/02/ive-been-using.html"
 		}
 		
 	]
