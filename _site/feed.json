@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/09/it-took-me.html",
+	      	
+			"content_html": "<p>It took me a while, but I finally got to see Blade Runner 2049. I absolutely loved it, both visually and narratively. I am now working my way back through Villeneuve’s films, and next up is Sicario.</p>\n",
+			"date_published": "2018-02-09T15:34:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/09/it-took-me.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/08/i-am-trying.html",
 	      	
 			"content_html": "<p>I am trying to learn chess properly. I still am really bad at it, but I am having a lot of fun. My train commute is now “The Daily Defeat” as I have yet to beat my phone :-)</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Stairwell</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/02fb5c1d11.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-02-03T17:07:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/03/stairwell.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/03/brownie-adogslife-dog.html",
-	      	
-			"content_html": "<p>Brownie #adogslife #dog #bestfriend</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/d54fe1d855.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-03T15:03:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/03/brownie-adogslife-dog.html"
 		}
 		
 	]
