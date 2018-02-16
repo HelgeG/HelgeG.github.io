@@ -1,0 +1,9 @@
+---
+layout: post
+microblog: true
+date: 2017-11-06 22:06 -0000
+guid: http://helgeg.micro.blog/2017/11/06/above-and-below.html
+---
+Above and below the clouds. #portugal #serradaestrela #clouds
+
+<img src="http://microblog.helgegudmundsen.com/uploads/2018/25f21791b7.jpg" width="600" height="600" />
