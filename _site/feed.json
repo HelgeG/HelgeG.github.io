@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/02/17/in-the-beginning.html",
+	      	
+			"content_html": "<p>In the beginning of January I started practicing martial arts, and I am already seeing huge dividends in terms of my physical shape and piece of mind. The master is a japanese man in his seventies who in incredible shape, and a real inspiration. Never too late to learn new skills</p>\n",
+			"date_published": "2018-02-17T10:19:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/02/17/in-the-beginning.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/02/16/the-scale-is.html",
 	      	
 			"content_html": "<p>The scale is pointing the right way. I am tracking observations in an org-mode table which calculates the trend values, and then (still inside emacs) I call gnuplot to make an svg with the graph. </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/edff7f756b.jpg\" width=\"600\" height=\"445\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>My current keyboard at work (CODE VP3 with SA Industrial keycaps). </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f9f76ec381.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-04T12:05:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-current-keyboard.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/04/my-hot-beverage.html",
-	      	
-			"content_html": "<p>My hot beverage of choice</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/de24edb820.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-04T11:45:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-hot-beverage.html"
 		}
 		
 	]
