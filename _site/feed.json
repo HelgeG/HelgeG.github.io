@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/07/the-wet-cat.html",
+	      	
+			"title": "The Wet Cat Look",
+			
+			"content_html": "<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/aba30c1cca.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Caught a shower on the way from the office to the commuter train. </p>\n\n",
+			"date_published": "2018-03-07T17:30:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/07/the-wet-cat.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/06/there-are-two.html",
 	      	
 			"content_html": "<p>There are two guitarists that can bring me to tears simply by the melancholic beauty of their playing: Jeff Beck and David Gilmour. </p>\n",
@@ -195,16 +205,6 @@
 			"content_html": "<p>I missed Blade Runner 2049 when it was at the cinemas, but today it was released in my local iTunes store. I foresee a long night in front of the television. </p>\n",
 			"date_published": "2018-02-02T08:32:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/02/i-missed-blade.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/01/30/handwritten-notes-on.html",
-	      	
-			"title": "Handwritten notes on the iPad",
-			
-			"content_html": "<p>I am getting more and more into handwritten notes on the iPad using GoodNotes. Usually I tend to write on whatever piece of paper is around, and notes frequently get lost. On the tablet I can find my notes, and even search them, as GoodNotes has OCR support and interprets what I write.</p>\n",
-			"date_published": "2018-01-30T10:27:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/01/30/handwritten-notes-on.html"
 		}
 		
 	]
