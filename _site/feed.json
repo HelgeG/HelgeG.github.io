@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/11/brownie-is-watching.html",
+	      	
+			"content_html": "<p>Brownie is watching</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/3d7dcd48ff.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-11T16:20:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/11/brownie-is-watching.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/11/stormy-sky-in.html",
+	      	
+			"content_html": "<p>Stormy sky in Lisbon</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/72d8d7af50.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-11T16:12:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/11/stormy-sky-in.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/11/dark-sky.html",
+	      	
+			"content_html": "<p>Dark sky!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/40af644cd8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-11T13:18:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/11/dark-sky.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/09/alcntara.html",
 	      	
 			"content_html": "<p>Alcântara</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2d62337b37.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -181,30 +205,6 @@
 			"content_html": "<p>For collaborative work I use git for source control, but for my own pet projects I am still partial to <a href=\"http://www.fossil-scm.org\">fossil</a>. I like the fact that it is lightweight and has a built-in wiki and issue tracker.</p>\n",
 			"date_published": "2018-02-05T13:23:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/05/for-collaborative-work.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/04/my-current-keyboard.html",
-	      	
-			"content_html": "<p>My current keyboard at work (CODE VP3 with SA Industrial keycaps). </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f9f76ec381.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-04T12:05:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-current-keyboard.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/04/my-hot-beverage.html",
-	      	
-			"content_html": "<p>My hot beverage of choice</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/de24edb820.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-04T11:45:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/04/my-hot-beverage.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/03/stairwell.html",
-	      	
-			"content_html": "<p>Stairwell</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/02fb5c1d11.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-02-03T17:07:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/03/stairwell.html"
 		}
 		
 	]
