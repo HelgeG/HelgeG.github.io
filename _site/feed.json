@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/12/the-corridor.html",
+	      	
+			"content_html": "<p>The corridor</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/6a6ee10d78.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-03-12T13:46:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/12/the-corridor.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/12/shades-of-red.html",
+	      	
+			"content_html": "<p>Shades of red</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/8da8e4eacf.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-03-12T13:45:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/12/shades-of-red.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/12/ever-so-slightly.html",
 	      	
 			"content_html": "<p>Ever so slightly sleepy this morning. Watching six episodes of Jessica Jones after 10pm might be a factor. </p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>Am I officially old? I got my first pair of glasses with progressive lenses today. Now I can see where I walk, and als glance at my phone without bumping up the font size to ridiculous levels. Nice to see again, but feeling ever so slightly seasick after the first hour with them. </p>\n",
 			"date_published": "2018-02-05T18:17:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/05/am-i-officially.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/05/talk-talk-were.html",
-	      	
-			"content_html": "<p>Talk Talk were (and are) one of my favorite bands. Especially their late albums (and Mark Hollis’ eponymous solo album) are timeless pieces of brilliance.</p>\n",
-			"date_published": "2018-02-05T13:52:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/05/talk-talk-were.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/05/my-micro-monday.html",
-	      	
-			"content_html": "<p>My Micro Monday recommendation is for <a href=\"https://micro.blog/bsag\">@bsag</a>. She is a biologist with a tendency toward nerddom, and a great writer. <a href=\"https://www.rousette.org.uk/\">Her blog</a> is full of really interesting pieces, and she writes with contagious enthusiasm.</p>\n",
-			"date_published": "2018-02-05T13:46:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/05/my-micro-monday.html"
 		}
 		
 	]
