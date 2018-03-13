@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-11 16:06 -0000
 guid: http://helgeg.micro.blog/2017/12/11/one-clear-sign.html
 ---
