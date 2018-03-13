@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-04-28 08:29 -0000
 guid: http://helgeg.micro.blog/2017/04/28/just-completed-my.html
 ---
