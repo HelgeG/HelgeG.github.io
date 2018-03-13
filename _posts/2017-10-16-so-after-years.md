@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-16 16:44 -0000
 guid: http://helgeg.micro.blog/2017/10/16/so-after-years.html
 ---
