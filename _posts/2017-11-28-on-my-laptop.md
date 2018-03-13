@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-28 19:11 -0000
 guid: http://helgeg.micro.blog/2017/11/28/on-my-laptop.html
 ---
