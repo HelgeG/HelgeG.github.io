@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-21 08:11 -0000
 guid: http://helgeg.micro.blog/2017/10/21/i-have-deleted.html
 ---
