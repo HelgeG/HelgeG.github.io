@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-19 10:22 -0000
 guid: http://helgeg.micro.blog/2017/11/19/morning-light-lisbon.html
 ---
