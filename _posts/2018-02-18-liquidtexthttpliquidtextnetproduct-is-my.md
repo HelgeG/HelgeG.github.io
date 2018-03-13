@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-18 18:47 -0000
 guid: http://helgeg.micro.blog/2018/02/18/liquidtexthttpliquidtextnetproduct-is-my.html
 ---
