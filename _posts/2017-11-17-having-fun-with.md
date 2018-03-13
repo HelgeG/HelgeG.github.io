@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-17 12:48 -0000
 guid: http://helgeg.micro.blog/2017/11/17/having-fun-with.html
 ---
