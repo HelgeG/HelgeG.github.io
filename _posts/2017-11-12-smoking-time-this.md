@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-12 12:32 -0000
 guid: http://helgeg.micro.blog/2017/11/12/smoking-time-this.html
 ---
