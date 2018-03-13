@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-16 12:34 -0000
 guid: http://helgeg.micro.blog/2017/12/16/very-merry-beery.html
 ---
