@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-15 22:29 -0000
 guid: http://helgeg.micro.blog/2018/01/15/few-things-are.html
 ---
