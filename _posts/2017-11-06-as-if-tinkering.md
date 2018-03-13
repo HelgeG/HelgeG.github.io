@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-06 19:00 -0000
 guid: http://helgeg.micro.blog/2017/11/06/as-if-tinkering.html
 ---
