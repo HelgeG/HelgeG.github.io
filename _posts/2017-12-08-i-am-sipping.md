@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-08 18:12 -0000
 guid: http://helgeg.micro.blog/2017/12/08/i-am-sipping.html
 ---
