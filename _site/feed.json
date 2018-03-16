@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/16/lisbon-street-art.html",
+	      	
+			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/a0c0d637db.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-16T21:36:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/16/lisbon-street-art.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/15/lisbon.html",
+	      	
+			"content_html": "<p>Lisbon</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/12c934d580.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-15T21:16:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/15/lisbon.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/14/lines.html",
+	      	
+			"content_html": "<p>Lines</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/e8bf1f958c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-14T09:10:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/14/lines.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/13/water-under-the.html",
 	      	
 			"content_html": "<p>Water under the bridge</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/c2877cfafe.jpg\" width=\"600\" height=\"598\" /></p>\n",
@@ -181,30 +205,6 @@
 			"content_html": "<p>The scale is pointing the right way. I am tracking observations in an org-mode table which calculates the trend values, and then (still inside emacs) I call gnuplot to make an svg with the graph. </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/edff7f756b.jpg\" width=\"600\" height=\"445\" /></p>\n",
 			"date_published": "2018-02-16T12:39:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/16/the-scale-is.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/09/it-took-me.html",
-	      	
-			"content_html": "<p>It took me a while, but I finally got to see Blade Runner 2049. I absolutely loved it, both visually and narratively. I am now working my way back through Villeneuve’s films, and next up is Sicario.</p>\n",
-			"date_published": "2018-02-09T15:34:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/09/it-took-me.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/08/i-am-trying.html",
-	      	
-			"content_html": "<p>I am trying to learn chess properly. I still am really bad at it, but I am having a lot of fun. My train commute is now “The Daily Defeat” as I have yet to beat my phone :-)</p>\n",
-			"date_published": "2018-02-08T05:54:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/08/i-am-trying.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/06/configured-for-sleep.html",
-	      	
-			"content_html": "<p>Configured for sleep</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/30f588382a.jpg\" width=\"476\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-06T14:22:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/06/configured-for-sleep.html"
 		}
 		
 	]
