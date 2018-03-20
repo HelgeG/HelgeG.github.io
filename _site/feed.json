@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/20/115514.html",
+	      	
+			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/117c7a3bfd.jpg\" width=\"482\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-20T11:55:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/20/115514.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/20/115350.html",
+	      	
+			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/5cccd6517d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-20T11:53:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/20/115350.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/16/lisbon-street-art.html",
 	      	
 			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/a0c0d637db.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"http://liquidtext.net/product/\">LiquidText</a> is my preferred tool for reading PDFs on iOS. The way I can take notes and excerpts that link back to the original section is really helpful to me. </p>\n",
 			"date_published": "2018-02-18T18:47:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/18/liquidtexthttpliquidtextnetproduct-is-my.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/17/in-the-beginning.html",
-	      	
-			"content_html": "<p>In the beginning of January I started practicing martial arts, and I am already seeing huge dividends in terms of my physical shape and piece of mind. The master is a japanese man in his seventies who in incredible shape, and a real inspiration. Never too late to learn new skills</p>\n",
-			"date_published": "2018-02-17T10:19:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/17/in-the-beginning.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/16/the-scale-is.html",
-	      	
-			"content_html": "<p>The scale is pointing the right way. I am tracking observations in an org-mode table which calculates the trend values, and then (still inside emacs) I call gnuplot to make an svg with the graph. </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/edff7f756b.jpg\" width=\"600\" height=\"445\" /></p>\n",
-			"date_published": "2018-02-16T12:39:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/16/the-scale-is.html"
 		}
 		
 	]
