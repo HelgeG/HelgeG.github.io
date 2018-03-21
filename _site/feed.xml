@@ -4,8 +4,30 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Tue, 20 Mar 2018 14:30:11 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Mar 2018 14:30:11 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Mar 2018 18:31:23 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Mar 2018 18:31:23 +0000</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Train station&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://microblog.helgegudmundsen.com/uploads/2018/2d711c8f32.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Mar 2018 18:20:00 -0000</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/03/21/train-station.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/03/21/train-station.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Pallets&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://microblog.helgegudmundsen.com/uploads/2018/67ff46ceb3.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Mar 2018 18:19:00 -0000</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/03/21/pallets.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/03/21/pallets.html</guid>
+      </item>
     
       <item>
       	
@@ -504,26 +526,6 @@
         <pubDate>Fri, 26 Jan 2018 10:27:00 -0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2018/01/26/got-my-radiotopia.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2018/01/26/got-my-radiotopia.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Fog on the bridge&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://helgeg.micro.blog/uploads/2018/9df18c0bd9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jan 2018 14:13:00 -0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/01/24/fog-on-the.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/01/24/fog-on-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I just moved my personal server from Linode to &lt;a href=&quot;https://www.hetzner.com/cloud&quot;&gt;Hetzner Cloud&lt;/a&gt;. I’ve been very happy with Linode, but Hetzner offers more RAM (2 GB vs 1GB), higher transfer cap (20 TB vs 1TB), and almost half the price. Their low-end server starts at €2.49/month.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jan 2018 12:48:00 -0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/01/24/i-just-moved.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/01/24/i-just-moved.html</guid>
       </item>
     
   </channel>
