@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/21/train-station.html",
+	      	
+			"content_html": "<p>Train station</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2d711c8f32.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-21T18:20:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/21/train-station.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/21/pallets.html",
+	      	
+			"content_html": "<p>Pallets</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/67ff46ceb3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-21T18:19:00Z",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/21/pallets.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/20/ultra-modern-elevator.html",
 	      	
 			"content_html": "<p>Ultra modern elevator control panel</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/23876b21e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>Cheers!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/ba346a2b30.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-24T21:16:00Z",
 			"url": "https://microblog.helgegudmundsen.com/2018/02/24/cheers.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/24/watching-blade-runner.html",
-	      	
-			"content_html": "<p>Watching Blade Runner 2049 for the second time. If anything, I am even more impressed now. </p>\n",
-			"date_published": "2018-02-24T19:28:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/24/watching-blade-runner.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/02/19/i-have-a.html",
-	      	
-			"content_html": "<p>I have a Mac again! My wife upgraded to a MacBook Pro, so I am taking over her aging 13” Air. It is getting long in the tooth, but for simple tasks and text editing it is sufficient. My work machine is running Arch Linux and XMonad, so I will be putting Amethyst on the Mac to emulate a tiling window manager as I have become very used to the tiling paradigm. </p>\n",
-			"date_published": "2018-02-19T08:17:00Z",
-			"url": "https://microblog.helgegudmundsen.com/2018/02/19/i-have-a.html"
 		}
 		
 	]
