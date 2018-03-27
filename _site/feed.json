@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/03/27/covered-window.html",
+	      	
+			"content_html": "<p>Covered Window</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/531aed627b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-27T08:14:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/27/covered-window.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/27/lisbon-light-urbanphotography.html",
+	      	
+			"content_html": "<p>Lisbon Light #urbanphotography #light</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/91542cbe2e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-27T08:03:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/27/lisbon-light-urbanphotography.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/27/070145.html",
+	      	
+			"content_html": "<p>Lisbon Light #urbanphotography #light</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/931cb582bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-27T08:01:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/27/070145.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/27/flower-power.html",
+	      	
+			"content_html": "<p>Flower Power</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/0dcb6e2010.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-27T07:54:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/27/flower-power.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/03/27/sleeping-beauty-adogslife.html",
+	      	
+			"content_html": "<p>Sleeping Beauty #adogslife</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/55c6ac8462.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-27T07:27:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/03/27/sleeping-beauty-adogslife.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/26/view-from-the.html",
 	      	
 			"content_html": "<p>View from the office rest room. Not bad.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/21e9ad2e31.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -163,46 +203,6 @@
 			"content_html": "<p>Stormy sky in Lisbon</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/72d8d7af50.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-11T17:12:00+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/11/stormy-sky-in.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/11/dark-sky.html",
-	      	
-			"content_html": "<p>Dark sky!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/40af644cd8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-11T14:18:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/11/dark-sky.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/09/alcntara.html",
-	      	
-			"content_html": "<p>Alcântara</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2d62337b37.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-09T19:35:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/09/alcntara.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/09/it-is-wet.html",
-	      	
-			"content_html": "<p>It is wet in Lisbon today. </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/d4fbc99c31.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-09T14:00:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/09/it-is-wet.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/09/fresh.html",
-	      	
-			"content_html": "<p>Fresh!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/17b9c2e583.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-09T09:54:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/09/fresh.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/08/luxury-having-access.html",
-	      	
-			"content_html": "<p>Luxury: having access to an orange orchard that lets us have this in the morning. </p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/a5923dd8d2.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-08T08:23:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/08/luxury-having-access.html"
 		}
 		
 	]
