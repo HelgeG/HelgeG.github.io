@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 11:24 -0000
+date: 2018-01-07 12:24 +0100
 guid: http://helgeg.micro.blog/2018/01/07/brownie-has-an.html
 ---
 Brownie has an ear infection. 
