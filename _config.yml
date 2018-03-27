@@ -28,5 +28,5 @@ github_username: "HelgeG"
 instagram_username: "grumpylemming"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Zulu"
+timezone: "WET"
 site_id: "600"
