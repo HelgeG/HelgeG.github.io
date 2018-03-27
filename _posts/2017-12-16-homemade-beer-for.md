@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 12:43 -0000
+date: 2017-12-16 13:43 +0100
 guid: http://helgeg.micro.blog/2017/12/16/homemade-beer-for.html
 ---
 Homemade beer for the holiday season
