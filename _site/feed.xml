@@ -4,8 +4,17 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Sat, 31 Mar 2018 11:41:24 +0100</pubDate>
-    <lastBuildDate>Sat, 31 Mar 2018 11:41:24 +0100</lastBuildDate>
+    <pubDate>Wed, 04 Apr 2018 12:26:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Apr 2018 12:26:00 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Just installed the feed reader &lt;a href=&quot;https://docs.miniflux.net/en/latest/opinionated.html&quot;&gt;miniflux&lt;/a&gt; on a cloud server. It seems really neat.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Apr 2018 12:25:00 +0100</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/04/04/just-installed-the.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/04/04/just-installed-the.html</guid>
+      </item>
     
       <item>
       	
@@ -520,15 +529,6 @@
         <pubDate>Mon, 05 Feb 2018 13:46:00 +0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2018/02/05/my-micro-monday.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/my-micro-monday.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;For collaborative work I use git for source control, but for my own pet projects I am still partial to &lt;a href=&quot;http://www.fossil-scm.org&quot;&gt;fossil&lt;/a&gt;. I like the fact that it is lightweight and has a built-in wiki and issue tracker.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Feb 2018 13:23:00 +0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/02/05/for-collaborative-work.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/for-collaborative-work.html</guid>
       </item>
     
   </channel>
