@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/04/04/just-installed-the.html",
+	      	
+			"content_html": "<p>Just installed the feed reader <a href=\"https://docs.miniflux.net/en/latest/opinionated.html\">miniflux</a> on a cloud server. It seems really neat.</p>\n",
+			"date_published": "2018-04-04T12:25:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/04/04/just-installed-the.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/03/31/hhkb-case-interior.html",
 	      	
 			"title": "HHKB Case - interior shots",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Shades of red</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/8da8e4eacf.jpg\" width=\"600\" height=\"598\" /></p>\n",
 			"date_published": "2018-03-12T13:45:00+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/12/shades-of-red.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/12/ever-so-slightly.html",
-	      	
-			"content_html": "<p>Ever so slightly sleepy this morning. Watching six episodes of Jessica Jones after 10pm might be a factor.</p>\n",
-			"date_published": "2018-03-12T08:04:00+00:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/12/ever-so-slightly.html"
 		}
 		
 	]
