@@ -4,8 +4,31 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Wed, 04 Apr 2018 12:26:00 +0100</pubDate>
-    <lastBuildDate>Wed, 04 Apr 2018 12:26:00 +0100</lastBuildDate>
+    <pubDate>Wed, 04 Apr 2018 19:32:28 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Apr 2018 19:32:28 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <title>Kindle and Calibre</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://calibre-ebook.com/&quot;&gt;Calibre&lt;/a&gt; might not be a pretty app, but for manging a Kindle library on and outside of the Kindle device, nothing else comes close. I buy all my books, but the first thing I do is to strip the copy protection from them. Thanks to Calibre’s plugin architecture this is a simple process using the &lt;a href=&quot;https://github.com/apprenticeharper/DeDRM_tools/tree/master/DeDRM_calibre_plugin&quot;&gt;DeDRM plugin&lt;/a&gt;. Many moons ago I had a sizeable library of books on the Palm handheld that I lost when the platform went belly-up.&lt;/p&gt;
+
+&lt;p&gt;Now I just want my books to be available to me independently of who is supplying the underlying technology. I don’t expect Amazon to fold anytime soon, but to be able to read the books I have bought from them on their platform or outside of it ois important to me.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Apr 2018 19:32:00 +0100</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/04/04/kindle-and-calibre.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/04/04/kindle-and-calibre.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Calibre is not a pretty app, but a good way of managing a Kindle library. Also, it is cross-platform. I buy all my books, but the first thing I do with them is stripping the DRM. Calibre plugins make that simple.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Apr 2018 18:55:00 +0100</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/04/04/calibre-is-not.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/04/04/calibre-is-not.html</guid>
+      </item>
     
       <item>
       	
@@ -511,24 +534,6 @@
         <pubDate>Mon, 05 Feb 2018 18:17:00 +0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2018/02/05/am-i-officially.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/am-i-officially.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Talk Talk were (and are) one of my favorite bands. Especially their late albums (and Mark Hollis’ eponymous solo album) are timeless pieces of brilliance.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Feb 2018 13:52:00 +0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/02/05/talk-talk-were.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/talk-talk-were.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;My Micro Monday recommendation is for &lt;a href=&quot;https://micro.blog/bsag&quot;&gt;@bsag&lt;/a&gt;. She is a biologist with a tendency toward nerddom, and a great writer. &lt;a href=&quot;https://www.rousette.org.uk/&quot;&gt;Her blog&lt;/a&gt; is full of really interesting pieces, and she writes with contagious enthusiasm.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Feb 2018 13:46:00 +0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/02/05/my-micro-monday.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/05/my-micro-monday.html</guid>
       </item>
     
   </channel>
