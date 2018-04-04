@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/04/04/kindle-and-calibre.html",
+	      	
+			"title": "Kindle and Calibre",
+			
+			"content_html": "<p><a href=\"https://calibre-ebook.com/\">Calibre</a> might not be a pretty app, but for manging a Kindle library on and outside of the Kindle device, nothing else comes close. I buy all my books, but the first thing I do is to strip the copy protection from them. Thanks to Calibre’s plugin architecture this is a simple process using the <a href=\"https://github.com/apprenticeharper/DeDRM_tools/tree/master/DeDRM_calibre_plugin\">DeDRM plugin</a>. Many moons ago I had a sizeable library of books on the Palm handheld that I lost when the platform went belly-up.</p>\n\n<p>Now I just want my books to be available to me independently of who is supplying the underlying technology. I don’t expect Amazon to fold anytime soon, but to be able to read the books I have bought from them on their platform or outside of it ois important to me.</p>\n\n",
+			"date_published": "2018-04-04T19:32:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/04/04/kindle-and-calibre.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/04/04/calibre-is-not.html",
+	      	
+			"content_html": "<p>Calibre is not a pretty app, but a good way of managing a Kindle library. Also, it is cross-platform. I buy all my books, but the first thing I do with them is stripping the DRM. Calibre plugins make that simple.</p>\n",
+			"date_published": "2018-04-04T18:55:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/04/04/calibre-is-not.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/04/04/just-installed-the.html",
 	      	
 			"content_html": "<p>Just installed the feed reader <a href=\"https://docs.miniflux.net/en/latest/opinionated.html\">miniflux</a> on a cloud server. It seems really neat.</p>\n",
@@ -189,22 +207,6 @@
 			"content_html": "<p>Water under the bridge</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/c2877cfafe.jpg\" width=\"600\" height=\"598\" /></p>\n",
 			"date_published": "2018-03-13T09:55:00+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/13/water-under-the.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/12/the-corridor.html",
-	      	
-			"content_html": "<p>The corridor</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/6a6ee10d78.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2018-03-12T13:46:00+00:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/12/the-corridor.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/12/shades-of-red.html",
-	      	
-			"content_html": "<p>Shades of red</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/8da8e4eacf.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2018-03-12T13:45:00+00:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/12/shades-of-red.html"
 		}
 		
 	]
