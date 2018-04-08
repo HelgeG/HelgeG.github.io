@@ -4,8 +4,17 @@
     <title>Helge Gudmundsen</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/helgeg&quot;&gt;@helgeg on Micro.blog&lt;/a&gt;.</description>
     <link>https://microblog.helgegudmundsen.com/</link>
-    <pubDate>Sun, 08 Apr 2018 12:05:37 +0100</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 12:05:37 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 18:48:39 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 18:48:39 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Got a new wok the other day and inaugurated it with a seriously yummy chicken stir-fry today.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Apr 2018 18:48:00 +0100</pubDate>
+        <link>https://microblog.helgegudmundsen.com/2018/04/08/got-a-new.html</link>
+        <guid isPermaLink="true">http://helgeg.micro.blog/2018/04/08/got-a-new.html</guid>
+      </item>
     
       <item>
       	
@@ -523,17 +532,6 @@
         <pubDate>Sat, 17 Feb 2018 10:19:00 +0000</pubDate>
         <link>https://microblog.helgegudmundsen.com/2018/02/17/in-the-beginning.html</link>
         <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/17/in-the-beginning.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The scale is pointing the right way. I am tracking observations in an org-mode table which calculates the trend values, and then (still inside emacs) I call gnuplot to make an svg with the graph.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://microblog.helgegudmundsen.com/uploads/2018/edff7f756b.jpg&quot; width=&quot;600&quot; height=&quot;445&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 Feb 2018 12:39:00 +0000</pubDate>
-        <link>https://microblog.helgegudmundsen.com/2018/02/16/the-scale-is.html</link>
-        <guid isPermaLink="true">http://helgeg.micro.blog/2018/02/16/the-scale-is.html</guid>
       </item>
     
   </channel>
