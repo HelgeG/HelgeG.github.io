@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-04 12:45 +0100
+date: 2018-02-04 12:45:10 +0100
 guid: http://helgeg.micro.blog/2018/02/04/my-hot-beverage.html
 ---
 My hot beverage of choice
