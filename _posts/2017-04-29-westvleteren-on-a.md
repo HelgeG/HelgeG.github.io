@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-29 20:04 +0100
+date: 2017-04-29 20:04:46 +0100
 guid: http://helgeg.micro.blog/2017/04/29/westvleteren-on-a.html
 ---
 Westvleteren 12 on a Portuguese spring evening. Not a bad mix. 
