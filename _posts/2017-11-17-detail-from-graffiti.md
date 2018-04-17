@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-17 09:54 +0100
+date: 2017-11-17 09:54:42 +0100
 guid: http://helgeg.micro.blog/2017/11/17/detail-from-graffiti.html
 ---
 Detail from graffiti #streetart
