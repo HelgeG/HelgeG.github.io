@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-16 13:34 +0100
+date: 2017-12-16 13:34:26 +0100
 guid: http://helgeg.micro.blog/2017/12/16/very-merry-beery.html
 ---
 Very Merry Beery Christmas! #christmas #beer #homebrew
