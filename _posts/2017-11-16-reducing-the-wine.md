@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-16 20:25 +0100
+date: 2017-11-16 20:25:41 +0100
 guid: http://helgeg.micro.blog/2017/11/16/reducing-the-wine.html
 ---
 Reducing the wine before adding stock and tomatoes #MyFavoritePastaSauce
