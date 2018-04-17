@@ -6,10 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/04/17/workmate.html",
+	      	
+			"title": "Workmate",
+			
+			"content_html": "<p>Alex is my new workmate.</p>\n\n",
+			"date_published": "2018-04-17T08:43:41+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/04/17/workmate.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/04/08/got-a-new.html",
 	      	
 			"content_html": "<p>Got a new wok the other day and inaugurated it with a seriously yummy chicken stir-fry today.</p>\n",
-			"date_published": "2018-04-08T18:48:00+01:00",
+			"date_published": "2018-04-08T18:48:37+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/08/got-a-new.html"
 		},
 		
@@ -17,7 +27,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/08/in-a-happy.html",
 	      	
 			"content_html": "<p>In a happy accident I discovered the <a href=\"https://en.m.wikipedia.org/wiki/Ozric_Tentacles\">Ozric Tentacles</a> in 1991. They have remained one of my favourite bands ever since.</p>\n",
-			"date_published": "2018-04-08T12:05:00+01:00",
+			"date_published": "2018-04-08T12:05:35+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/08/in-a-happy.html"
 		},
 		
@@ -25,7 +35,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/08/104152.html",
 	      	
 			"content_html": "<p>Brownie!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/aabb802fe8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T11:41:00+01:00",
+			"date_published": "2018-04-08T11:41:52+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/08/104152.html"
 		},
 		
@@ -33,7 +43,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/05/she-said-i.html",
 	      	
 			"content_html": "<p>She said “I do!”, I said “I do!”, 15 years ago today. Celebrating with a nice dinner out for the two of us, and the boys staying with their cousins!</p>\n",
-			"date_published": "2018-04-05T19:02:00+01:00",
+			"date_published": "2018-04-05T19:02:19+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/05/she-said-i.html"
 		},
 		
@@ -41,7 +51,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/05/cinema-paradiso-is.html",
 	      	
 			"content_html": "<p>Cinema Paradiso is back at my local cinema for the 30th anniversary screening. 🎥</p>\n",
-			"date_published": "2018-04-05T12:21:00+01:00",
+			"date_published": "2018-04-05T12:21:45+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/05/cinema-paradiso-is.html"
 		},
 		
@@ -51,7 +61,7 @@
 			"title": "Kindle and Calibre",
 			
 			"content_html": "<p><a href=\"https://calibre-ebook.com/\">Calibre</a> might not be a pretty app, but for manging a Kindle library on and outside of the Kindle device, nothing else comes close. I buy all my books, but the first thing I do is to strip the copy protection from them. Thanks to Calibre’s plugin architecture this is a simple process using the <a href=\"https://github.com/apprenticeharper/DeDRM_tools/tree/master/DeDRM_calibre_plugin\">DeDRM plugin</a>. Many moons ago I had a sizeable library of books on the Palm handheld that I lost when the platform went belly-up.</p>\n\n<p>Now I just want my books to be available to me independently of who is supplying the underlying technology. I don’t expect Amazon to fold anytime soon, but to be able to read the books I have bought from them on their platform or outside of it ois important to me.</p>\n\n",
-			"date_published": "2018-04-04T19:32:00+01:00",
+			"date_published": "2018-04-04T19:32:27+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/04/kindle-and-calibre.html"
 		},
 		
@@ -59,7 +69,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/04/calibre-is-not.html",
 	      	
 			"content_html": "<p>Calibre is not a pretty app, but a good way of managing a Kindle library. Also, it is cross-platform. I buy all my books, but the first thing I do with them is stripping the DRM. Calibre plugins make that simple.</p>\n",
-			"date_published": "2018-04-04T18:55:00+01:00",
+			"date_published": "2018-04-04T18:55:55+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/04/calibre-is-not.html"
 		},
 		
@@ -67,7 +77,7 @@
 			"id": "http://helgeg.micro.blog/2018/04/04/just-installed-the.html",
 	      	
 			"content_html": "<p>Just installed the feed reader <a href=\"https://docs.miniflux.net/en/latest/opinionated.html\">miniflux</a> on a cloud server. It seems really neat.</p>\n",
-			"date_published": "2018-04-04T12:25:00+01:00",
+			"date_published": "2018-04-04T12:25:59+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/04/just-installed-the.html"
 		},
 		
@@ -77,7 +87,7 @@
 			"title": "HHKB Case - interior shots",
 			
 			"content_html": "<p><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-03-31T11:41:00+01:00",
+			"date_published": "2018-03-31T11:41:23+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/31/hhkb-case-interior.html"
 		},
 		
@@ -85,7 +95,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/28/geometry.html",
 	      	
 			"content_html": "<p>Geometry</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2abf0f08ba.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-28T12:24:00+01:00",
+			"date_published": "2018-03-28T12:24:06+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/28/geometry.html"
 		},
 		
@@ -93,7 +103,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/27/covered-window.html",
 	      	
 			"content_html": "<p>Covered Window</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/531aed627b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T08:14:00+01:00",
+			"date_published": "2018-03-27T08:14:55+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/27/covered-window.html"
 		},
 		
@@ -101,7 +111,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/27/lisbon-light-urbanphotography.html",
 	      	
 			"content_html": "<p>Lisbon Light #urbanphotography #light</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/91542cbe2e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T08:03:00+01:00",
+			"date_published": "2018-03-27T08:03:47+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/27/lisbon-light-urbanphotography.html"
 		},
 		
@@ -109,7 +119,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/27/070145.html",
 	      	
 			"content_html": "<p>Lisbon Light #urbanphotography #light</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/931cb582bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T08:01:00+01:00",
+			"date_published": "2018-03-27T08:01:45+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/27/070145.html"
 		},
 		
@@ -117,7 +127,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/27/flower-power.html",
 	      	
 			"content_html": "<p>Flower Power</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/0dcb6e2010.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T07:54:00+01:00",
+			"date_published": "2018-03-27T07:54:05+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/27/flower-power.html"
 		},
 		
@@ -125,7 +135,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/27/sleeping-beauty-adogslife.html",
 	      	
 			"content_html": "<p>Sleeping Beauty #adogslife</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/55c6ac8462.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T07:27:00+01:00",
+			"date_published": "2018-03-27T07:27:05+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/27/sleeping-beauty-adogslife.html"
 		},
 		
@@ -133,7 +143,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/26/view-from-the.html",
 	      	
 			"content_html": "<p>View from the office rest room. Not bad.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/21e9ad2e31.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-26T21:12:00+01:00",
+			"date_published": "2018-03-26T21:12:49+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/26/view-from-the.html"
 		},
 		
@@ -141,7 +151,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/26/201151.html",
 	      	
 			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/412e8d5a88.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-26T21:11:00+01:00",
+			"date_published": "2018-03-26T21:11:51+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/26/201151.html"
 		},
 		
@@ -149,7 +159,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/24/birthday-present.html",
 	      	
 			"content_html": "<p>Birthday present :-)</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/20f3b2c0df.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T12:18:00+00:00",
+			"date_published": "2018-03-24T12:18:26+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/24/birthday-present.html"
 		},
 		
@@ -157,7 +167,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/24/the-real-thing.html",
 	      	
 			"content_html": "<p>The Real Thing - oranges from Vidigueira</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f1e016893e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-24T10:02:00+00:00",
+			"date_published": "2018-03-24T10:02:38+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/24/the-real-thing.html"
 		},
 		
@@ -165,7 +175,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/24/i-will-be.html",
 	      	
 			"content_html": "<p>I will be celebrating my birthday by reading up on the Spring framework and Cloud Foundry 🤓</p>\n",
-			"date_published": "2018-03-24T09:36:00+00:00",
+			"date_published": "2018-03-24T09:36:59+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/24/i-will-be.html"
 		},
 		
@@ -173,7 +183,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/24/081237.html",
 	      	
 			"content_html": "<p>49!</p>\n",
-			"date_published": "2018-03-24T08:12:00+00:00",
+			"date_published": "2018-03-24T08:12:37+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/24/081237.html"
 		},
 		
@@ -181,7 +191,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/21/train-station.html",
 	      	
 			"content_html": "<p>Train station</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2d711c8f32.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-21T18:20:00+00:00",
+			"date_published": "2018-03-21T18:20:29+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/21/train-station.html"
 		},
 		
@@ -189,7 +199,7 @@
 			"id": "http://helgeg.micro.blog/2018/03/21/pallets.html",
 	      	
 			"content_html": "<p>Pallets</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/67ff46ceb3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-21T18:19:00+00:00",
+			"date_published": "2018-03-21T18:19:24+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/21/pallets.html"
 		},
 		
@@ -197,16 +207,8 @@
 			"id": "http://helgeg.micro.blog/2018/03/20/ultra-modern-elevator.html",
 	      	
 			"content_html": "<p>Ultra modern elevator control panel</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/23876b21e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-20T14:26:00+00:00",
+			"date_published": "2018-03-20T14:26:55+00:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/20/ultra-modern-elevator.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/20/115514.html",
-	      	
-			"content_html": "<p>Lisbon street art #streetart</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/117c7a3bfd.jpg\" width=\"482\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-20T11:55:00+00:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/20/115514.html"
 		}
 		
 	]
