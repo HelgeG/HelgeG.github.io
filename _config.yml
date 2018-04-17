@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://microblog.helgegudmundsen.com"
 markdown: "kramdown"
 username: "helgeg"
+microblog_user: "helgeg"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Helge Gudmundsen"
@@ -31,3 +32,5 @@ paginate_path: "/page/:num/"
 timezone: "WET"
 site_id: "600"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
