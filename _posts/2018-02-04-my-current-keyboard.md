@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-04 13:05 +0100
+date: 2018-02-04 13:05:28 +0100
 guid: http://helgeg.micro.blog/2018/02/04/my-current-keyboard.html
 ---
 My current keyboard at work (CODE VP3 with SA Industrial keycaps). 
