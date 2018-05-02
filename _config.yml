@@ -34,3 +34,4 @@ site_id: "600"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "Helge Gudmundsen"
