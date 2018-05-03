@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/03/some-months-ago.html",
+	      	
+			"content_html": "<p>Some months ago I spent a pretty penny on an iPad stand from <a href=\"https://yohann.com/eu/en/\">Yohann</a>. I thought at the time the purchase was a bit extravagant, but the stand has turned out to be a wonderful investment. I love it and use it all the time. At the desk, sitting in a chair, or in bed. Top marks!</p>\n",
+			"date_published": "2018-05-03T23:17:00+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/03/some-months-ago.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/03/for-whatever-reason.html",
 	      	
 			"content_html": "<p>For whatever reason I haven’t listened to David Sylvian in a long, long time. I am remedying that situation today.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Geometry</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2abf0f08ba.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-28T12:24:06+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/28/geometry.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/27/covered-window.html",
-	      	
-			"content_html": "<p>Covered Window</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/531aed627b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-27T08:14:55+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/27/covered-window.html"
 		}
 		
 	]
