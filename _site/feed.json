@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/06/getting-more-and.html",
+	      	
+			"content_html": "<p>Getting more and more tempted to get an AlphaSmart keyboard. In a way it feels like a step on the way to a typewriter.</p>\n",
+			"date_published": "2018-05-06T13:55:48+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/06/getting-more-and.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/03/some-months-ago.html",
 	      	
 			"content_html": "<p>Some months ago I spent a pretty penny on an iPad stand from <a href=\"https://yohann.com/eu/en/\">Yohann</a>. I thought at the time the purchase was a bit extravagant, but the stand has turned out to be a wonderful investment. I love it and use it all the time. At the desk, sitting in a chair, or in bed. Top marks!</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
 			"date_published": "2018-03-31T11:41:23+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/03/31/hhkb-case-interior.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/28/geometry.html",
-	      	
-			"content_html": "<p>Geometry</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/2abf0f08ba.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-28T12:24:06+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/28/geometry.html"
 		}
 		
 	]
