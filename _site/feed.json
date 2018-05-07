@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/07/175507.html",
+	      	
+			"content_html": "<p>Stephen Fry’s <a href=\"https://www.amazon.com/gp/aw/d/B071CN6W7T/ref=mp_s_a_1_1?ie=UTF8&amp;qid=1525715660&amp;sr=8-1&amp;pi=AC_SX236_SY340_QL65&amp;keywords=mythos+stephen+fry\">Mythos</a> dropped from 30-something dollars down to roughly 10 on the Kindle store, so I got it today.</p>\n",
+			"date_published": "2018-05-07T18:55:07+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/07/175507.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/06/getting-more-and.html",
 	      	
 			"content_html": "<p>Getting more and more tempted to get an AlphaSmart keyboard. In a way it feels like a step on the way to a typewriter.</p>\n",
@@ -199,16 +207,6 @@
 			"content_html": "<p>Just installed the feed reader <a href=\"https://docs.miniflux.net/en/latest/opinionated.html\">miniflux</a> on a cloud server. It seems really neat.</p>\n",
 			"date_published": "2018-04-04T12:25:59+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/04/just-installed-the.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/03/31/hhkb-case-interior.html",
-	      	
-			"title": "HHKB Case - interior shots",
-			
-			"content_html": "<p><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/0775b21b3f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\"><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/6695d6774f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-03-31T11:41:23+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/03/31/hhkb-case-interior.html"
 		}
 		
 	]
