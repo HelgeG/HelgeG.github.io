@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/13/reading-sophie-lovells.html",
+	      	
+			"content_html": "<p>Reading Sophie Lovell’s book <a href=\"https://www.amazon.com/gp/aw/d/0714849189/ref=mp_s_a_1_1\">Dieter Rams: As Little Design as Possible</a>. Much food for thought.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/40daf3b261.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-13T09:33:50+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/13/reading-sophie-lovells.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/10/since-there-seems.html",
 	      	
 			"content_html": "<p>Since there seems to be quite a few pen geeks here, you might like to know that <a href=\"https://www.cultpens.com/news/q/date/2018/04/30/free-international-shipping-offer\">Cult Pens</a> in the UK are offering free international shipping on orders over GBP 50.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p><a href=\"https://calibre-ebook.com/\">Calibre</a> might not be a pretty app, but for manging a Kindle library on and outside of the Kindle device, nothing else comes close. I buy all my books, but the first thing I do is to strip the copy protection from them. Thanks to Calibre’s plugin architecture this is a simple process using the <a href=\"https://github.com/apprenticeharper/DeDRM_tools/tree/master/DeDRM_calibre_plugin\">DeDRM plugin</a>. Many moons ago I had a sizeable library of books on the Palm handheld that I lost when the platform went belly-up.</p>\n\n<p>Now I just want my books to be available to me independently of who is supplying the underlying technology. I don’t expect Amazon to fold anytime soon, but to be able to read the books I have bought from them on their platform or outside of it ois important to me.</p>\n\n",
 			"date_published": "2018-04-04T19:32:27+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/04/kindle-and-calibre.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/04/calibre-is-not.html",
-	      	
-			"content_html": "<p>Calibre is not a pretty app, but a good way of managing a Kindle library. Also, it is cross-platform. I buy all my books, but the first thing I do with them is stripping the DRM. Calibre plugins make that simple.</p>\n",
-			"date_published": "2018-04-04T18:55:55+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/04/calibre-is-not.html"
 		}
 		
 	]
