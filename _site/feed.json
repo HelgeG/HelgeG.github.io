@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/19/the-less-pleasant.html",
+	      	
+			"content_html": "<p>The less pleasant part of changing jobs is informing the current employer that you want to leave, particularly in a small company. That tricky part out of the way, I can now take a deep breath and prepare for the new one.</p>\n",
+			"date_published": "2018-05-19T15:51:11+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/19/the-less-pleasant.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/18/i-have-started.html",
 	      	
 			"content_html": "<p>I have started brushing up on my almost forgotten German.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Brownie!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/aabb802fe8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-08T11:41:52+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/08/104152.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/05/she-said-i.html",
-	      	
-			"content_html": "<p>She said “I do!”, I said “I do!”, 15 years ago today. Celebrating with a nice dinner out for the two of us, and the boys staying with their cousins!</p>\n",
-			"date_published": "2018-04-05T19:02:19+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/05/she-said-i.html"
 		}
 		
 	]
