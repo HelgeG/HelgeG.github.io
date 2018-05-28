@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/28/seems-like-my.html",
+	      	
+			"content_html": "<p>Seems like my iPad is terminally ill with battery problems. However, it will be replaced by a new unit, and I’ll just pay for the battery. Better than I had hoped for given that the warranty period expired a couple of months ago. The new unit carries a new 2 year warranty.</p>\n",
+			"date_published": "2018-05-28T14:04:45+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/28/seems-like-my.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/28/my-ipad-is.html",
 	      	
 			"content_html": "<p>My iPad is in hospital, so I am finding myself using pen and paper a lot more. While I miss the iPad, it is nice to use analog tools more.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Made my first action in Drafts 5, it adds a note as a TODO in my org-mode inbox.</p>\n",
 			"date_published": "2018-04-22T21:27:04+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/22/made-my-first.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/21/dear-microblog-people.html",
-	      	
-			"content_html": "<p>Dear micro.blog people: Cheers!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/c77fbe7379.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-21T21:14:44+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/21/dear-microblog-people.html"
 		}
 		
 	]
