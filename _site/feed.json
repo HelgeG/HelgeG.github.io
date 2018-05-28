@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/05/28/063551.html",
+	      	
+			"content_html": "<p>I have a strange relationship with coffee. I crave every cup, but very rarely do I get one that makes me think, “Oh this is good!”.</p>\n\n<p>However, when I do, it is divine.</p>\n\n<p>It is like a little lottery. Will I win today?</p>\n",
+			"date_published": "2018-05-28T07:35:51+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/28/063551.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/05/28/my-football-team.html",
+	      	
+			"content_html": "<p>“My” football team, SK Brann, won the national championship in 1962, 1963 and 2007. They are currently on top of the league table. Still a long way to go, but there is the glimmer of hope for a fourth title.</p>\n",
+			"date_published": "2018-05-28T07:29:45+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/28/my-football-team.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/27/my-agendadiary-a.html",
 	      	
 			"content_html": "<p>My agenda/diary. A Hobonichi Techo with a YELLOW cover.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f1fc7aceae.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://itunes.apple.com/app/id1236254471?ls=1&amp;mt=8&amp;at=11l4Cf&amp;ct=site\">Drafts 5</a> and <a href=\"https://www.typography.com/fonts/operator/styles/\">Operator Mono</a>.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/c1efcadf8b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-21T10:11:49+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/21/drafts-httpsitunesapplecomappidlsmtatlcfctsite-and.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/20/using-the-operator.html",
-	      	
-			"content_html": "<p>Using the Operator Mono font in Drafts 5. 💗</p>\n",
-			"date_published": "2018-04-20T20:57:29+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/20/using-the-operator.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/18/my-boys-are.html",
-	      	
-			"content_html": "<p>My boys are horrified that I eat horse meat.  I wonder where that comes from and how it in their minds differs from beef.</p>\n",
-			"date_published": "2018-04-18T18:16:05+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/18/my-boys-are.html"
 		}
 		
 	]
