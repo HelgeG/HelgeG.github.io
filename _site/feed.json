@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/01/listening-to-aerial.html",
+	      	
+			"content_html": "<p>Listening to Aerial Boundaries by Michael Hedges. I don’t think I will ever tire of this album.</p>\n",
+			"date_published": "2018-06-01T15:06:11+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/01/listening-to-aerial.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/01/the-microsoft-foldable.html",
+	      	
+			"content_html": "<p>The Microsoft Foldable keyboard is a really nice accessory for my iOS devices. Small and portable, and OK to type on once I got used to the “two halves”-layout.</p>\n",
+			"date_published": "2018-06-01T14:47:01+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/01/the-microsoft-foldable.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/01/i-doubt-that.html",
+	      	
+			"content_html": "<p>I doubt that I would have discovered Espresso and Tonic on Twitter. This could quickly become my favorite summer drink.</p>\n",
+			"date_published": "2018-06-01T14:32:59+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/01/i-doubt-that.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/05/30/omnifocus-is-out.html",
+	      	
+			"content_html": "<p><a href=\"https://www.omnigroup.com/download/appstore/omnifocus-ios\">OmniFocus 3</a> is out for iOS today, and <a href=\"https://www.macstories.net/reviews/omnifocus-3-review-more-approachable-and-powerful-all-at-once/\">MacStories</a> has a review out.</p>\n",
+			"date_published": "2018-05-30T14:27:58+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/05/30/omnifocus-is-out.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/05/29/getting-a-new.html",
 	      	
 			"title": "Getting a new rucksack for travelling",
@@ -173,38 +205,6 @@
 			"content_html": "<p>Found this in a local shop today. It brought back memories of all-nighters from my student days.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f87d49558e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-27T22:50:59+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/04/27/found-this-in.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/27/one-thing-i.html",
-	      	
-			"content_html": "<p>One thing I have noticed since getting an Apple watch is that the phone is using a lot more power. I rarely get a full days with of usage without charging.</p>\n",
-			"date_published": "2018-04-27T17:51:16+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/27/one-thing-i.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/25/i-guess-uefa.html",
-	      	
-			"content_html": "<p>I guess UEFA Champions League is not huge in the micro.blog community, but to anyone following the game, Cheers!</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/595452b53b.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-25T20:56:46+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/25/i-guess-uefa.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/25/preparing-for-football.html",
-	      	
-			"content_html": "<p>Preparing for football tonight. Guess which is my team.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/4c70ab95fb.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-25T18:10:42+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/25/preparing-for-football.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/24/i-love-this.html",
-	      	
-			"content_html": "<p>I love this stuff</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/308cb75a4c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-24T21:44:46+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/24/i-love-this.html"
 		}
 		
 	]
