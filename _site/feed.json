@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/03/my-sunday-setup.html",
+	      	
+			"content_html": "<p>My Sunday setup</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/16cc21b075.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-03T12:00:05+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/03/my-sunday-setup.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/01/listening-to-aerial.html",
 	      	
 			"content_html": "<p>Listening to Aerial Boundaries by Michael Hedges. I don’t think I will ever tire of this album.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>“Spellbound” by Siouxsie and the Banshees continues to spellbind me.</p>\n",
 			"date_published": "2018-05-02T12:30:42+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/02/spellbound-by-siouxsie.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/04/27/found-this-in.html",
-	      	
-			"content_html": "<p>Found this in a local shop today. It brought back memories of all-nighters from my student days.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f87d49558e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-27T22:50:59+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/04/27/found-this-in.html"
 		}
 		
 	]
