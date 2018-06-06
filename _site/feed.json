@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/06/it-is-official.html",
+	      	
+			"content_html": "<p>It is official. Yesterday I signed the contract with my new employer, and I will start working for them in July.</p>\n",
+			"date_published": "2018-06-06T07:21:55+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/06/it-is-official.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/04/it-has-been.html",
+	      	
+			"content_html": "<p>It has been a few years since I watched a WWDC keynote live.</p>\n",
+			"date_published": "2018-06-04T17:55:43+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/04/it-has-been.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/04/given-the-small.html",
+	      	
+			"content_html": "<p>Given the small footprint of the stand, it is easy to put it on some sort of shelf. In this picture, I put it on a wine box as a proof of concept :-). It might be more of an issue if you are out and about a lot, where carrying a shelf is not exactly practical. <a href=\"https://micro.blog/justinhudgins\">@justinhudgins</a></p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/5234b2c22b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-04T12:21:45+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/04/given-the-small.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/03/visiting-the-lisbon.html",
 	      	
 			"title": "Visiting The Lisbon Book Fair",
@@ -185,30 +209,6 @@
 			"content_html": "<p>Since there seems to be quite a few pen geeks here, you might like to know that <a href=\"https://www.cultpens.com/news/q/date/2018/04/30/free-international-shipping-offer\">Cult Pens</a> in the UK are offering free international shipping on orders over GBP 50.</p>\n",
 			"date_published": "2018-05-10T10:52:59+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/10/since-there-seems.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/07/175507.html",
-	      	
-			"content_html": "<p>Stephen Fry’s <a href=\"https://www.amazon.com/gp/aw/d/B071CN6W7T/ref=mp_s_a_1_1?ie=UTF8&amp;qid=1525715660&amp;sr=8-1&amp;pi=AC_SX236_SY340_QL65&amp;keywords=mythos+stephen+fry\">Mythos</a> dropped from 30-something dollars down to roughly 10 on the Kindle store, so I got it today.</p>\n",
-			"date_published": "2018-05-07T18:55:07+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/07/175507.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/06/getting-more-and.html",
-	      	
-			"content_html": "<p>Getting more and more tempted to get an AlphaSmart keyboard. In a way it feels like a step on the way to a typewriter.</p>\n",
-			"date_published": "2018-05-06T13:55:48+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/06/getting-more-and.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/03/some-months-ago.html",
-	      	
-			"content_html": "<p>Some months ago I spent a pretty penny on an iPad stand from <a href=\"https://yohann.com/eu/en/\">Yohann</a>. I thought at the time the purchase was a bit extravagant, but the stand has turned out to be a wonderful investment. I love it and use it all the time. At the desk, sitting in a chair, or in bed. Top marks!</p>\n",
-			"date_published": "2018-05-03T23:17:00+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/03/some-months-ago.html"
 		}
 		
 	]
