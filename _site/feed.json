@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/08/yesterday-i-got.html",
+	      	
+			"content_html": "<p>Yesterday I got a bew cold brew pot, so today I had a nice, refreshing cold coffee with breakfast. Tonight I will have some with tonic to compare with Espresso Tonic.</p>\n",
+			"date_published": "2018-06-08T09:22:13+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/08/yesterday-i-got.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/06/it-is-official.html",
 	      	
 			"content_html": "<p>It is official. Yesterday I signed the contract with my new employer, and I will start working for them in July.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Reading Sophie Lovell’s book <a href=\"https://www.amazon.com/gp/aw/d/0714849189/ref=mp_s_a_1_1\">Dieter Rams: As Little Design as Possible</a>. Much food for thought.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/40daf3b261.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-13T09:33:50+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/13/reading-sophie-lovells.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/10/since-there-seems.html",
-	      	
-			"content_html": "<p>Since there seems to be quite a few pen geeks here, you might like to know that <a href=\"https://www.cultpens.com/news/q/date/2018/04/30/free-international-shipping-offer\">Cult Pens</a> in the UK are offering free international shipping on orders over GBP 50.</p>\n",
-			"date_published": "2018-05-10T10:52:59+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/10/since-there-seems.html"
 		}
 		
 	]
