@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/09/changing-jobs-means.html",
+	      	
+			"content_html": "<p>Changing jobs means early holidays this year. Next week I am taking the boys to Norway for a week.</p>\n",
+			"date_published": "2018-06-09T16:33:02+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/09/changing-jobs-means.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/09/my-third-coffee.html",
+	      	
+			"content_html": "<p>My third coffee tool is more expensive than the Aeropress and the Hario combined, but worth the expense. It is a Porlex hand grinder for coffee beans. It makes me work for my coffee :-)</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/78b7ae7b77.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-09T09:13:07+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/09/my-third-coffee.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/09/usually-but-not.html",
 	      	
 			"content_html": "<p>Usually, but not always, good tools are expensive. My two top picks for making great coffee are both cheap. The Aeropress is great for hot coffee, and the Hario Mizudashi is fantastic for cold brew. In “bang for the buck” terms they are both unbeatable.</p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p>Relaxation</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/4e4de73140.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-20T07:40:08+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/20/relaxation.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/19/the-less-pleasant.html",
-	      	
-			"content_html": "<p>The less pleasant part of changing jobs is informing the current employer that you want to leave, particularly in a small company. That tricky part out of the way, I can now take a deep breath and prepare for the new one.</p>\n",
-			"date_published": "2018-05-19T15:51:11+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/19/the-less-pleasant.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/18/i-have-started.html",
-	      	
-			"content_html": "<p>I have started brushing up on my almost forgotten German.</p>\n",
-			"date_published": "2018-05-18T12:09:04+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/18/i-have-started.html"
 		}
 		
 	]
