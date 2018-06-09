@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/09/usually-but-not.html",
+	      	
+			"content_html": "<p>Usually, but not always, good tools are expensive. My two top picks for making great coffee are both cheap. The Aeropress is great for hot coffee, and the Hario Mizudashi is fantastic for cold brew. In “bang for the buck” terms they are both unbeatable.</p>\n",
+			"date_published": "2018-06-09T07:57:53+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/09/usually-but-not.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/08/not-having-to.html",
+	      	
+			"content_html": "<p>Not having to fake dates to have tasks appear in the OmniFocus forecast view has removed a lot of friction for me.</p>\n",
+			"date_published": "2018-06-08T11:45:14+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/08/not-having-to.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/08/yesterday-i-got.html",
 	      	
 			"content_html": "<p>Yesterday I got a bew cold brew pot, so today I had a nice, refreshing cold coffee with breakfast. Tonight I will have some with tonic to compare with Espresso Tonic.</p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p>I have started brushing up on my almost forgotten German.</p>\n",
 			"date_published": "2018-05-18T12:09:04+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/18/i-have-started.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/17/morning-bliss.html",
-	      	
-			"content_html": "<p>Morning bliss</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/c70bc89f5f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-17T09:03:03+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/17/morning-bliss.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/13/reading-sophie-lovells.html",
-	      	
-			"content_html": "<p>Reading Sophie Lovell’s book <a href=\"https://www.amazon.com/gp/aw/d/0714849189/ref=mp_s_a_1_1\">Dieter Rams: As Little Design as Possible</a>. Much food for thought.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/40daf3b261.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-13T09:33:50+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/13/reading-sophie-lovells.html"
 		}
 		
 	]
