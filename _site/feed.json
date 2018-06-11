@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/11/my-new-favourite.html",
+	      	
+			"content_html": "<p>My new favourite refreshment: cold brewed coffee and tonic.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/ad56e86bd2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-11T08:55:54+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/11/my-new-favourite.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/09/changing-jobs-means.html",
 	      	
 			"content_html": "<p>Changing jobs means early holidays this year. Next week I am taking the boys to Norway for a week.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Wine in its early stage</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/fdefa36e03.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-20T07:44:14+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/20/wine-in-its.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/20/relaxation.html",
-	      	
-			"content_html": "<p>Relaxation</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/4e4de73140.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-20T07:40:08+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/20/relaxation.html"
 		}
 		
 	]
