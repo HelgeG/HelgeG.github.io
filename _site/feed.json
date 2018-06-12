@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/12/hmmm-a-limited.html",
+	      	
+			"content_html": "<p>Hmmm… “A limited number of the DM42 is back in stock and availble at <a href=\"https://www.swissmicros.com/order.php\">www.swissmicros.com/order.php</a>”</p>\n",
+			"date_published": "2018-06-12T08:10:07+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/12/hmmm-a-limited.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/11/my-new-favourite.html",
 	      	
 			"content_html": "<p>My new favourite refreshment: cold brewed coffee and tonic.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/ad56e86bd2.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I’m going to Munich for two weeks in July. It is one of my favorite cities.</p>\n",
 			"date_published": "2018-05-26T11:03:36+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/26/im-going-to.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/20/wine-in-its.html",
-	      	
-			"content_html": "<p>Wine in its early stage</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/fdefa36e03.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-20T07:44:14+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/20/wine-in-its.html"
 		}
 		
 	]
