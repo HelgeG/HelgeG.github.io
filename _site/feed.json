@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://helgeg.micro.blog/2018/06/14/i-got-my.html",
+	      	
+			"content_html": "<p>I got my hands on a nice used ultrabook, the Lenovo Yoga 3 Pro. Now to put a Linux distro on it.</p>\n",
+			"date_published": "2018-06-14T20:25:37+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/14/i-got-my.html"
+		},
+		
+		{
+			"id": "http://helgeg.micro.blog/2018/06/12/a-little-morning.html",
+	      	
+			"content_html": "<p>A little morning pick-me-up</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f5563206a8.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-12T10:09:33+01:00",
+			"url": "https://microblog.helgegudmundsen.com/2018/06/12/a-little-morning.html"
+		},
+		
+		{
 			"id": "http://helgeg.micro.blog/2018/06/12/hmmm-a-limited.html",
 	      	
 			"content_html": "<p>Hmmm… “A limited number of the DM42 is back in stock and availble at <a href=\"https://www.swissmicros.com/order.php\">www.swissmicros.com/order.php</a>”</p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p>My agenda/diary. A Hobonichi Techo with a YELLOW cover.</p>\n\n<p><img src=\"http://microblog.helgegudmundsen.com/uploads/2018/f1fc7aceae.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-27T15:30:54+01:00",
 			"url": "https://microblog.helgegudmundsen.com/2018/05/27/my-agendadiary-a.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/26/you-know-a.html",
-	      	
-			"content_html": "<p>You know a company has some way to go in the HR area when the first two reactions from management after you resign is 1) you can’t use your holiday days, and 2) can you extend your notice period by one month?</p>\n",
-			"date_published": "2018-05-26T11:08:04+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/26/you-know-a.html"
-		},
-		
-		{
-			"id": "http://helgeg.micro.blog/2018/05/26/im-going-to.html",
-	      	
-			"content_html": "<p>I’m going to Munich for two weeks in July. It is one of my favorite cities.</p>\n",
-			"date_published": "2018-05-26T11:03:36+01:00",
-			"url": "https://microblog.helgegudmundsen.com/2018/05/26/im-going-to.html"
 		}
 		
 	]
